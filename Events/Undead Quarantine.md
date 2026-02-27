@@ -4,6 +4,7 @@
 ### Locations
 - 
 ### Relationships
+- possibly [[Trunk]]
 - 
 ## Timeline
 - 

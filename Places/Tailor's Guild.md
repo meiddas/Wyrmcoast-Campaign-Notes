@@ -4,12 +4,12 @@
 ### Party Reputation
 -  Being investigated for relation to the missing [[Voorst Van Derlick]] and [[Captain Gray]]. 
 ### Locals
--  [[Bart]] has nothing to do with the [[Red Pendulum Tailors]] Cult.
-- Dwarven woman does have connections to the [[Red Pendulum Tailors]]
+-  [[Bart]] has nothing to do with the [[Crimson Tithe]] Cult.
+- Dwarven woman does have connections to the [[Crimson Tithe]]
 ### Locations
 -  
 ### Things to Do
-- Houses [[Red Pendulum Tailors]].
+- Houses [[Crimson Tithe]].
 ### Things we have done
 -  
 ## Timeline

@@ -1,6 +1,6 @@
 #Place
 ### Description
-- Town under quarantine by the [[Second Bridge Free Company]] due to the undead attack on [[Tarth]].
+- Fortress Town. On western coast
 ### Party Reputation
 - 
 ### Locals
@@ -12,4 +12,5 @@
 ### Things we have done
 - 
 ## Timeline
-- 
+- The town is under quarantine by the [[Second Bridge Free Company]] due to the undead attack on [[Tarth]]. 
+- Heavy Guard presence

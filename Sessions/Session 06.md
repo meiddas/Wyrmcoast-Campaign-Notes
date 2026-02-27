@@ -9,6 +9,6 @@
 ### New Concepts
 
 ## Synopsis
-- Acquired a [[Bag of Holding]] and got payed from [[Big Zeke]]. Did some last minute shopping at [[Sawhorn|Sawhorn's]] and met [[Beak Beak]].
+- Acquired a [[Party Inventory]] and got payed from [[Big Zeke]]. Did some last minute shopping at [[Sawhorn|Sawhorn's]] and met [[Beak Beak]].
 ## Plans for next time
 - Posthumous
