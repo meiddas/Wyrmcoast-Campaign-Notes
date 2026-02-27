@@ -8,8 +8,11 @@
 
 ### Relationships
 - [[Beak Beak]] - Mephit that runs his shop while he travels
+- [[Peak Beak]]
 ### Related Locations
 - [[Xanth]]
+- [[Old Sawhorn's Wandering Emporium]] - [[Port Primavaire]]
+- 
 ### Affiliations
 
 ## Timeline

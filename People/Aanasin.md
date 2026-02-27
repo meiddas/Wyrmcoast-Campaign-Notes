@@ -1,18 +1,16 @@
 #Person
 #### First Met: Session
 ### Description
-- Tiefling
+- Demon Patron of [[Dimothy]]
 ### Physical Description
 - 
 ### Relationship to Party
-- 
+- Dimothy - Patron
 ### Relationships
-- [[Charity]] - In [[Port Primavaire]] at the [[Yonderdocks]].
+- 
 ### Related Locations
-- [[Yonderdocks]]
-- [[Port Primavaire]]
-- [[Hoot'n'Holler]]
+- 
 ### Affiliations
-- Hermit
+- 
 ## Timeline
 - 
